@@ -1,6 +1,5 @@
 # HKU_DASE7111
-DASE7111 course project 2 code source
-# TSP Solution Comparison
+It is DASE7111 course project 2 code source. 
 
 This project aims to compare different methods for solving the Traveling Salesman Problem (TSP), including Reinforcement Learning (RL) models and classic heuristic algorithms. The comparison involves training an RL model, evaluating it alongside other methods on multiple instances of the problem, and visualizing the results.
 
